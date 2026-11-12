@@ -1,4 +1,4 @@
-# Subdomain Finder V1.0
+# Subdomain Finder
 
 A lightweight PowerShell subdomain discovery tool that queries the [CertSpotter Certificate Transparency API](https://api.certspotter.com/) and exports discovered DNS names to TXT and CSV files.
 
@@ -151,3 +151,10 @@ Get-Location
 ## Responsible use
 
 Only assess domains that you own or have explicit written authorization to test. Follow the scope, rate limits, and rules of engagement for each assessment. Treat discovered hostnames as leads for authorized validation, not as permission to probe them.
+
+## Author
+
+**Karthi R**
+
+- GitHub: https://github.com/karthitom
+- Project: https://github.com/karthitom/SubdomainFinder

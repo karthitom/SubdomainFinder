@@ -1,7 +1,12 @@
+# ==============================================
+# Tool Name   : Subdomain Finder
+# Author      : Karthi R
+# GitHub      : https://github.com/karthitom
+# ==============================================
 Clear-Host
 
 Write-Host "==============================================" -ForegroundColor Cyan
-Write-Host "           SUBDOMAIN FINDER V1.0" -ForegroundColor Green
+Write-Host "           SUBDOMAIN FINDER" -ForegroundColor Green
 Write-Host "==============================================" -ForegroundColor Cyan
 
 # Get target domain
